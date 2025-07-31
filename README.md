@@ -13,7 +13,6 @@
 - 🎓 B.Tech IT @ BVP Pune (2019–2023) with 9.14 CGPA
 - 💼 Former SDE at Siemens Technology & Services
 - 🔬 Focused on **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**
-- 💡 Built projects for **mental health detection**, **cattle disease prediction**, and **data decluttering**
 - 🔭 Currently working on **real-time AI/ML projects** and backend systems with **Django**
 - 📫 Reach me at: `samirjaiswal2121@gmail.com`
 - 📁 Portfolio: [GitHub Projects](https://github.com/samir-j)
